@@ -1,0 +1,4 @@
+interface:
+  display_name: "VXE 弹窗滚动与分页"
+  short_description: "稳定处理 VXE 表格的滚动、分页、筛选、全选与确认。"
+  default_prompt: "使用 $vxe-dialog-scroll-pagination 验证此 VXE 弹窗表格流程。"

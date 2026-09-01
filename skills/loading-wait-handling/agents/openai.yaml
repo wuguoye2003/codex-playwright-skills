@@ -1,0 +1,4 @@
+interface:
+  display_name: "等待加载处理方式"
+  short_description: "为 Playwright 自动化提供稳定、可验证的页面与异步加载等待。"
+  default_prompt: "使用 $loading-wait-handling 优化此 Playwright 脚本的加载等待处理。"

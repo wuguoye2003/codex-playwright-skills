@@ -1,0 +1,4 @@
+interface:
+  display_name: "填写后失焦与值校验"
+  short_description: "使用 Playwright 填写表单后失焦并校验输入值是否保留"
+  default_prompt: "Use $fill-blur-verify to fill a form field, trigger blur, and verify the retained value."

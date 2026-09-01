@@ -1,0 +1,4 @@
+interface:
+  display_name: "设备发现与纳管"
+  short_description: "为设备发现、监控添加与纳管流程提供可靠自动化规则。"
+  default_prompt: "使用 $device-discovery-management 创建或修复设备发现与纳管自动化。"
